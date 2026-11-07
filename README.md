@@ -38,3 +38,35 @@ Learning Platform
 LeadHer Foundation
 
 This is part of my continuous learning journey in data analytics.
+
+**Week 3: Advanced SQL Querying Techniques**
+
+Project Overview
+
+This week's assessment focused on applying advanced SQL querying techniques to summarize, organize, and analyze data using two tables: "products" and "sales".
+
+Assessment Tasks
+
+No.| Task| SQL Concepts
+1| Total Sales Volume| SUM, Aliases
+2| Average Product Price by Category| AVG, ROUND, GROUP BY, ORDER BY
+3| Daily Sales Revenue| SUM, GROUP BY
+4| High-Volume Product IDs| SUM, GROUP BY, HAVING
+5| Sales Size Classification| CASE, Conditional Logic
+6| Combined Product Listings| UNION
+
+Tools Used
+
+- SQL
+- Relational Database
+- Products and Sales Datasets
+
+Learning Outcomes
+
+Through these exercises, I strengthened my ability to:
+
+- Perform calculations using aggregate functions.
+- Group and filter summarized data.
+- Apply conditional logic to classify records.
+- Combine query results using set operations.
+- Organize query outputs for better readability and analysis.
